@@ -1,0 +1,5 @@
+Created Account on 06-November-16 at 02:31:08 AM
+Balance: You have credited 20000$ in your account on 06-November-16 at 02:31:08 AM
+Balance: A gift of  250$  from X-Treme Bank has been credited to your account on 06-November-16 at 02:31:08 AM
+
+Balance: You have Debitted 20000$ from your account on 06-November-16 at 02:33:24 AM
